@@ -1,0 +1,56 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: pink;
+    text-align: center;
+}
+h1{
+    color: blueviolet ;
+}
+ 
+.mylogo {
+    border-radius:  50%  ;
+    text-align: center;
+    height: 300px;
+    width: auto;
+}
+.my4{
+    height: 500px;
+     width: auto;
+     border-radius:  50%  ;
+}
+.pcs h1{
+    color: black;
+    
+}
+
+.pic{
+    text-align: center;
+}
+.mya {
+text-align: center;
+height: 300px;
+width: auto;
+}
+
+.myb{
+    height: 300px;
+width: auto;
+}
+.cook{
+    text-align: center;
+}
+.cook img{
+    height: 300px;
+    width: 300px;
+    border-radius:  50%;
+}
+header {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif ;
+    margin: 1rem;
+    font-size: 20px;
+    color: royalblue; /*#e4640e, #DD5746, */
+}
